@@ -1,0 +1,10 @@
+# Editor / SO
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Ambiente
+.env
+.env.local

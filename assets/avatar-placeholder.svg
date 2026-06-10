@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#131a21"/>
+      <stop offset="1" stop-color="#1a232c"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#g)"/>
+  <circle cx="200" cy="160" r="62" fill="#243038"/>
+  <path d="M90 340c0-66 49-110 110-110s110 44 110 110z" fill="#243038"/>
+  <text x="50%" y="92%" text-anchor="middle"
+        font-family="JetBrains Mono, monospace" font-size="20" fill="#5c6873">sua foto aqui</text>
+</svg>
