@@ -5,7 +5,7 @@
 /* ---------- 1. Traduções PT / EN ---------- */
 const translations = {
   pt: {
-    meta_desc: "Portfólio de Solano — desenvolvedor de software. Projetos, habilidades e contato.",
+    meta_desc: "Portfólio de Solano — Desenvolvedor de Software. Projetos, habilidades e contato.",
     nav_about: "Sobre",
     nav_skills: "Habilidades",
     nav_projects: "Projetos",
@@ -36,7 +36,7 @@ const translations = {
     skill_soft3: "Aprendizado rápido",
 
     projects_title: "Projetos",
-    proj1_desc: "Descrição curta do projeto: que problema ele resolve e o que você aprendeu construindo.",
+    proj1_desc: " O FinFlow é um gestor de finanças pessoais full-stack com IA.",
     proj2_desc: "Descrição curta do projeto: que problema ele resolve e o que você aprendeu construindo.",
     proj3_desc: "Descrição curta do projeto: que problema ele resolve e o que você aprendeu construindo.",
     projects_all: "Ver todos no GitHub",
